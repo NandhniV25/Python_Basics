@@ -1,0 +1,5 @@
+a=set(input().split())
+n=int(input())
+s1=set(input().split())
+s2=set(input().split())
+print((a.issuperset(s1)) and (a.issuperset(s2)))
