@@ -1,4 +1,3 @@
-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
 Traceback (most recent call last):
   File "c:\Nandhni\GitRepo\Python_Basics\OpenAI\article.py", line 24, in <module>
     response = get_completion(prompt)

@@ -1,4 +1,3 @@
-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
 Traceback (most recent call last):
   File "c:\Nandhni\GitRepo\Python_Basics\OpenAI\chatGpt.py", line 40, in <module>
     response = get_completion(prompt)
